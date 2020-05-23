@@ -72,7 +72,7 @@ footer {
   margin: 1.4vh;
 }
 
-li{
+li {
   list-style: none;
   display: inline-block;
 }
@@ -118,7 +118,7 @@ h4 {
 
 }
 
-h5{  
+h5 {
   text-align: center;
   color: rgb(0, 35, 122);
   font-size: 35px;
@@ -138,15 +138,16 @@ p {
 
 }
 
-h6{
+h6 {
   text-align: center;
   color: rgb(0, 35, 122);
   font-size: 30px;
-  font-weight: bold; 
+  font-weight: bold;
   font-family: "Open Sans", cursive;
   margin-top: 0.5em;
 
 }
+
 /* SAME FOR ALL PAGES*/
 .container_img {
   display: flex;
@@ -185,13 +186,13 @@ h6{
   margin-right: 3em;
 }
 
-.info_flex_container{
+.info_flex_container {
   display: flex;
   flex-direction: row;
   justify-content: center;
 }
 
-.info_html{
+.info_html {
   background-color: rgb(251, 227, 127);
   margin-left: 1em;
   margin-right: 1em;
@@ -206,8 +207,8 @@ h6{
 
 
 
-.info_css{
-  background-color: rgb(87, 167, 216);  
+.info_css {
+  background-color: rgb(87, 167, 216);
   margin-left: 1em;
   margin-right: 1em;
   margin-top: 1em;
@@ -227,14 +228,14 @@ h6{
 
 
 /* THIS IS CSS CODE FOR REFERANCE PAGE*/
- 
+
 .container {
   display: flex;
   justify-content: center;
 }
 
 .column_css {
-  background-color: rgb(87, 167, 216);  
+  background-color: rgb(87, 167, 216);
   margin-left: 1em;
   margin-right: 1em;
   float: left;
@@ -269,25 +270,25 @@ h6{
 
 /* THIS IS CSS CODE FOR TUTORIAL PAGE*/
 
-.flex_tutorials{
+.flex_tutorials {
   display: flex;
   justify-content: space-around;
 
 
 }
 
-.box{
+.box {
   width: 450px;
   height: 350px;
 
 }
 
-.box:hover{
+.box:hover {
   border: 2px solid rgb(108, 36, 126);
- 
+
 }
 
-.box1{
+.box1 {
   text-align: center;
   color: rgb(0, 35, 122);
   font-size: 25px;
@@ -297,7 +298,7 @@ h6{
 }
 
 
-.box2{
+.box2 {
   text-align: center;
   color: rgb(0, 35, 122);
   font-size: 25px;
@@ -306,7 +307,7 @@ h6{
   border: 2px solid rgb(87, 167, 216);
 }
 
-.box3{
+.box3 {
   text-align: center;
   color: rgb(0, 35, 122);
   font-size: 25px;
@@ -315,7 +316,7 @@ h6{
   border: 2px solid rgb(251, 227, 127);
 }
 
-.flex_tutorials2{
+.flex_tutorials2 {
   margin-top: 50px;
   display: flex;
   justify-content: space-around;
@@ -323,7 +324,7 @@ h6{
 
 }
 
-.box4{
+.box4 {
   text-align: center;
   color: rgb(0, 35, 122);
   font-size: 25px;
@@ -333,7 +334,7 @@ h6{
 }
 
 
-.box5{
+.box5 {
   text-align: center;
   color: rgb(0, 35, 122);
   font-size: 25px;
@@ -342,7 +343,7 @@ h6{
   border: 2px solid rgb(251, 227, 127);
 }
 
-.box6{
+.box6 {
   text-align: center;
   color: rgb(0, 35, 122);
   font-size: 25px;
