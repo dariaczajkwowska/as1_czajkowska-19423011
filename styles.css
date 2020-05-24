@@ -46,6 +46,7 @@ nav ul li a:hover {
 
 /* end of reference  */
 
+/* styles for footer */
 footer {
   list-style: none;
   font-weight: normal;
@@ -76,11 +77,6 @@ li {
   list-style: none;
   display: inline-block;
 }
-
-
-
-
-
 
 /*  Fonts  */
 h1 {
@@ -204,9 +200,6 @@ h6 {
   height: 150px;
 }
 
-
-
-
 .info_css {
   background-color: rgb(87, 167, 216);
   margin-left: 1em;
@@ -218,14 +211,6 @@ h6 {
   width: 100%;
   height: 150px;
 }
-
-
-
-
-
-
-
-
 
 /* THIS IS CSS CODE FOR REFERANCE PAGE*/
 
@@ -251,22 +236,6 @@ h6 {
   width: 50%;
   height: 5600px
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* THIS IS CSS CODE FOR TUTORIAL PAGE*/
 
